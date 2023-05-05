@@ -39,4 +39,4 @@ We asked ourselves questions based on our curiosities and came to the following 
 3. There is a trend for the time of day when comments are made. Depending on the sentiment, certain words appear more often than others. Again, it is important to note the dataset has been curated. <br />
 4. The more we dove into the data, the more we realized the researchers curated the comments in ways to remove large deviations. <br /> <br />
 
-(Use Case for Dataset - Predicting emotions based on data built upon Reddit Comment and Raters)[https://huggingface.co/arpanghoshal/EmoRoBERTa]
+[Use Case for Dataset - Predicting emotions based on data built upon Reddit Comment and Raters](https://huggingface.co/arpanghoshal/EmoRoBERTa)
