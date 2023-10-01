@@ -23,13 +23,20 @@ We organized the subreddits into groups based on common topics and functions, so
 - The raters kept the ratio of both sentiments consistent across comments rated. <br />
 - Subreddit group representation is accurate across top and mode raters then becomes increasingly inaccurate near bottom raters, as one can expect. Can assume that the comments were unlikely to be preselected. <br /> <br />
 
+![RaterScatter](Resources/RaterScatterplot.png)
+![RaterBoxplot](Resources/RaterCompBoxplot.png)
+
 ### Regarding Date & Time:<br /> 
 What impact does the date and time of day have on comment elicited emotion? Is there a trend based on the day and time of the comment made? <br />
 - Higher positive sentiment right after New Years and at the end of January, unfortunately due to relativel short timescale we are unable to pursue this further.  <br />
 - Based on the heatmap, we can see that most comments were made between the hours of 12:00am - 2:00am and 4:00pm -10:00pm, due to lack of geographic data we cannot determine the timezones and adjusted hours of activity. <br /> <br />
 
+![ActivityHeatmap](Resources/HeatmapActivitySized.png)
+
 ### Regarding Emotion / Sentiment and Words: <br />
 - We created Word Clouds based on the comments in our data. The larger the word in the visual, the more often the word is used in the specific group of comments. We were curious to see if certain words appeared more often than others. It is interesting to note that the word clouds match what you would expect to see from Positive and Negative Sentiments and the Sports Subgategory. The other cloud words we created also had the same expected output. The words used most often make sense in relation to the subgroups.  <br /> <br />
+
+![CloudPositive](Resources/PositiveSentCloud.png)
 
 ### Summary:<br />
 When we started working with this data set, we expected more deviation between the emotions or effects of the comments. <br />
